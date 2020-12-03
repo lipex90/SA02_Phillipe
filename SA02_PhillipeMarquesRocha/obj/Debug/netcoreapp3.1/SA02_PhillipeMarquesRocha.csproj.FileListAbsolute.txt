@@ -1,0 +1,13 @@
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.exe
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.deps.json
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.runtimeconfig.json
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.runtimeconfig.dev.json
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.dll
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.pdb
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.csprojAssemblyReference.cache
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.AssemblyInfoInputs.cache
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.AssemblyInfo.cs
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.csproj.CoreCompileInputs.cache
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.dll
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.pdb
+C:\Users\liped\source\repos\SA02_PhillipeMarquesRocha\SA02_PhillipeMarquesRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeMarquesRocha.genruntimeconfig.cache
